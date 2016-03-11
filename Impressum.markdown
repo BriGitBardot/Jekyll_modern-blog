@@ -1,10 +1,7 @@
 ---
-title:  "Spielen mit meinen Freunden"
-subtitle: "Aaron, Mira und Garfi"
+title:  "IMPRESSUM"
 image: "img/MitGarfield.jpg"
 ---
-
-## IMPRESSUM
 
 ### Angaben gemäß § 5 TMG:
 Annika Hamachers   
