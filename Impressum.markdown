@@ -1,14 +1,14 @@
 ## IMPRESSUM
 
 ### Angaben gemäß § 5 TMG:
-Annika Hamachers
-Dahlweg 34
-48153 Münster
+Annika Hamachers   
+Dahlweg 34   
+48153 Münster   
 E-Mail: annika.hamachers@googlemail.com
 
 ### Verantwortung für die Inhalte nach § 55 ABS. 2 RSTV
-Annika Hamachers
-Dahlweg 34
+Annika Hamachers   
+Dahlweg 34   
 48153 Münster
 
 ### Haftungsausschluss   
