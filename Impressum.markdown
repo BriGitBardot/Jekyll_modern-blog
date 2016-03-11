@@ -1,3 +1,9 @@
+---
+title:  "Spielen mit meinen Freunden"
+subtitle: "Aaron, Mira und Garfi"
+image: "img/MitGarfield.jpg"
+---
+
 ## IMPRESSUM
 
 ### Angaben gemäß § 5 TMG:
