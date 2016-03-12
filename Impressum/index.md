@@ -1,4 +1,5 @@
 ---
+layout: compress
 title:  "IMPRESSUM"
 image: "img/MitGarfield.jpg"
 ---
